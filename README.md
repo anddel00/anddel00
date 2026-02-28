@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Ciao, sono Andrea Del Fatto
 
-<!--
-**anddel00/anddel00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Automation Engineer Junior | Software Engineer
 
-Here are some ideas to get you started:
+Sono un Ingegnere Informatico specializzato in Sistemi Complessi, Intelligenza Artificiale, Cloud Computing e Cybersecurity. Attualmente sto completando la Laurea Magistrale in Ingegneria Informatica e dell'Automazione presso l'Università degli Studi di Ferrara. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Nel mio percorso professionale mi divido tra ricerca dell'efficienza e sviluppo pratico:
+* **Soluzioni B2B e gestionali:** Lavoro come freelance progettando architetture software scalabili, inclusi sistemi PMS personalizzati per l'Hospitality.
+* **Performance e Accessibilità:** Come Junior Frontend Engineer per CINECA ho riprogettato il portale "Cerca Università", migliorando le performance di caricamento del 20% e la compliance WCAG 2.1.
+* **Visione per il futuro:** Ambisco a ruoli in ambito R&D e System Engineering per progettare infrastrutture tecnologiche che siano non solo performanti, ma anche sicure e intelligenti.
+
+---
+
+### 🛠️ Competenze Tecniche
+
+* **Linguaggi di Programmazione:** Java, Python, C, C++, JavaScript, PHP.
+* **Sistemi Core:** Machine Learning, Deep Learning, Distributed Systems, Cybersecurity.
+* **Infrastruttura & DevOps:** Docker, Unix, Shell, Git, MySQL, PostgreSQL.
+* **Frontend & UX/UI:** HTML5, CSS3, Figma, Balsamiq, ottimizzazione SEO tecnica.
+
+---
+
+### 📫 Come contattarmi
+* 📧 **Email:** andreadelfatto@gmail.com
+* 📄 **CV e Portfolio:** www.andreadf.it
