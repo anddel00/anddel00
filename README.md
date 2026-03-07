@@ -1,6 +1,6 @@
 # 👋 Ciao, sono Andrea Del Fatto
 
-### AI & Automation Engineer 
+### MCs Student in AI & Automation Engineering
 
 Sono un Ingegnere Informatico specializzato in Sistemi Complessi, Intelligenza Artificiale, Cloud Computing e Cybersecurity. Attualmente sto completando la Laurea Magistrale in Ingegneria Informatica e dell'Automazione presso l'Università degli Studi di Ferrara. 
 
